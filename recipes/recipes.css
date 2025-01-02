@@ -1,0 +1,41 @@
+.recipe_name {
+    background-color: rgb(176, 104, 104);
+    width: 300px;
+    text-align: center;
+}
+
+.ingredients {
+    background-color: rgb(179, 157, 127);
+    text-align: center;
+}
+
+.directions {
+    background-color: rgb(179, 157, 127);
+    text-align: center;
+}
+
+button {
+    font-size: 50px;
+    background-color: none;
+    padding: 0;
+    border: none;
+    outline: inherit;
+    color: inherit;
+    font: inherit;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.button {
+    background-color: blueviolet;
+    border-top: 20px;
+    border-color: rgb(79, 40, 40);
+    font-size: 60px;
+}
+
+.button:hover {
+    background-color: aliceblue;
+}
